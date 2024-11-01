@@ -2,5 +2,6 @@
 opengrok/docker
 zlmediakit/zlmediakit:master
 ubuntu:18.04
+centos:centos7.9.2009
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
