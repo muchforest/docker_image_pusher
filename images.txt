@@ -9,3 +9,4 @@ paddlepaddle/paddle:2.6.2-gpu-cuda12.0-cudnn8.9-trt8.6
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64/v8 ubuntu:22.04
 gitlab/gitlab-ce
+gitlab/gitlab-ce:16.4.7-ce.0
