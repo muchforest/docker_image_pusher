@@ -11,4 +11,5 @@
 #gitlab/gitlab-ce
 #gitlab/gitlab-ce:16.4.7-ce.0
 #openjdk:8-jdk-alpine
-nginx
+#nginx
+dustynv/nanoowl:r35.4.1
