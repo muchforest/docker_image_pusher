@@ -14,3 +14,5 @@
 #nginx
 #dustynv/nanoowl:r35.4.1
 emqx:5.8
+ubuntu:22.04
+ubuntu:24.04
